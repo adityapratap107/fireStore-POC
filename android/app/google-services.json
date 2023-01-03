@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "192112502374",
+    "project_id": "firestoreproject-df71a",
+    "storage_bucket": "firestoreproject-df71a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192112502374:android:bc1f29f9e9ac9cda5fefa7",
+        "android_client_info": {
+          "package_name": "com.firestoreproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192112502374-kb8k942na28vck4b93ta2gh2spu16s04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZrUrsmy4ldChH3oCA9zg16gSl4RAXWGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192112502374-kb8k942na28vck4b93ta2gh2spu16s04.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "192112502374-c7mj8a6492ci5n692cr636tnirte58i9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FireStoreProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
